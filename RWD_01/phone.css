@@ -71,6 +71,7 @@
     padding-bottom: 50px;
 }
 
+
 .Inner_text .images {
    float:left;
 }
@@ -124,6 +125,7 @@
 
 .Inner_text{
     background-color: #f0f0f0;
+    width: auto;
 }
 
 .style1 {
